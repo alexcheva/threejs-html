@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "regenerator-runtime": "^0.13.11",
+    "three": "^0.149.0"
+  }
+}
